@@ -1,3 +1,3 @@
 # Spring Boot and JWT
 
-Implementing Spring Boot Security and JWT 
+### Sample Backend App with implementation of Spring Boot Security and JWT 
